@@ -2,7 +2,7 @@ import Card from "./Card";
 
 function App() {
   return (
-    <div className="">
+    <div className="flex h-[100vh] items-center justify-center">
       <Card />
     </div>
   );
